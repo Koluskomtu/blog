@@ -1,2 +1,2 @@
-baseurl: "/blog" # does not include hostname
+baseurl: "blog/" # does not include hostname
 exclude: [ 'README.md' ]
