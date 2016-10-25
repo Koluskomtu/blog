@@ -1,10 +1,9 @@
-/
-blog
-  collections:
+ collections:
   portfolio:
 
 
 title: blog
+<<<<<<< HEAD
 email: john.lafosse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -20,6 +19,15 @@ style: compressed
 
 >>>>>>> origin/gh-pages
 github_username:  Koluskomtu
+=======
+email: "john.lafosse@gmail.com"
+
+baseurl: "/blog/"
+url: "https://koluskomtu.github.io/blog/"
+
+
+
+>>>>>>> origin/gh-pages
 gems:
    - jekyll-mentions
    - jemoji
