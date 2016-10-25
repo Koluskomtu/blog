@@ -38,7 +38,7 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
 						<li>
-							<a href="{{ site.url }}about.html">About</a>
+							<a href="{{ site.url }}/blog/about.html">About</a>
 						</li>
 						<li>
 							<a href="{{ site.url }}services.html">Services</a>
@@ -55,10 +55,7 @@
 			</div>
 			<!-- /.container-fluid -->
 		</nav>
-	<section class="content"> 
-		{{ content }} 
-	</section> 
-
+      {{ content }}
 
 		<section id="contact">
 			<div class="container">
@@ -80,16 +77,17 @@
 			</div>
 		</section>
 		<!-- jQuery -->
-		<script src="{{ site.url }}js/jquery.js"></script>
+		<script src="{{ site.baseurl }}/js/jquery.js"></script>
 		<!-- Bootstrap Core JavaScript -->
-		<script src="{{ site.url }}js/bootstrap.min.js"></script>
+		<script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
 
 		<!-- Plugin JavaScript -->
-		<script src="{{ site.url }}js/jquery.easing.min.js"></script>
-		<script src="{{ site.url }}js/jquery.fittext.js"></script>
-		<script src="{{ site.url }}js/wow.min.js"></script>
+		<script src="{{ site.baseurl }}/js/jquery.easing.min.js"></script>
+		<script src="{{ site.baseurl }}/js/jquery.fittext.js"></script>
+		<script src="{{ site.baseurl }}/js/wow.min.js"></script>
 
 		<!-- Custom Theme JavaScript -->
-		<script src="{{ site.url }}js/creative.js"></script>
+		<script src="js/creative.js"></script>
 	</body>
 </html>
+
