@@ -13,8 +13,3 @@ title: Thelonius
 
 > Test
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> origin/gh-pages
