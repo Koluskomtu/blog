@@ -1,5 +1,6 @@
   sass_dir: _sass
-  style: compressedcollections:
+  style: compressed
+  collections:
   portfolio:
 
 
