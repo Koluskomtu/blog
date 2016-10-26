@@ -15,7 +15,7 @@ url: "koluskomtu.github.io"
 github_username:  Koluskomtu
 
 email: "john.lafosse@gmail.com"
-
+future: true
 gems:
    - jekyll-mentions
    - jemoji
