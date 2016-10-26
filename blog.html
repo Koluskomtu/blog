@@ -10,7 +10,7 @@ title: Blog
         <ul style="list-style-position: inside">
            {% for post in site.posts %}
              <li>
-               <a href="/blog{{ post.url }}">{{ post.title }}</a>
+               <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                - {{ post.date | date: "%d %B %Y" }}
              </li>
            {% endfor %}
