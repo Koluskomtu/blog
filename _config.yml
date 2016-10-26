@@ -1,6 +1,4 @@
- ---
- collections:
-  portfolio:~
+
 
 
 title: blog
@@ -25,3 +23,6 @@ gems:
    - jekyll-feed
 
 exclude: [ 'README.md' ]
+ ---
+ collections:
+  portfolio:~
