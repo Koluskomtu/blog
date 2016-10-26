@@ -4,7 +4,8 @@ github_username:  Koluskomtu
 email: "john.lafosse@gmail.com"
 future: true
 
-
+collections:
+  portfolio:
 exclude: [ 'README.md' ]
 
 
