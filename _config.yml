@@ -1,6 +1,7 @@
 
 collections:
 portfolio:
+
 title: blog
 email: john.lafosse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -20,4 +21,9 @@ gems:
    - jekyll-feed
 
 exclude: [ 'README.md' ]
+
+
+
+ collections:
+ portfolio:
 
