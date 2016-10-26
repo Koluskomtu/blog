@@ -1,24 +1,96 @@
-
-		<section class="no-padding" id="portfolio">
-			<div class="container-fluid">
-				<div class="row no-gutter">
-	{% for portfolio_item in site.portfolio %}
-					<div class="col-lg-4 col-sm-6">
-							<a href="{{ portfolio_item.link }}" class="portfolio-box">
-								<img src="{{ portfolio_item.image_path }}" class="img-responsive" alt="">
-								<div class="portfolio-box-caption">
-									<div class="portfolio-box-caption-content">
-										<div class="project-category text-faded">
-											{{ portfolio_item.category }}
-										</div>
-										<div class="project-name">
-										{{ portfolio_item.project_name }}
-										</div>
-									</div>
-								</div>
-							</a>
-						</div>
-					{% endfor %}
-				</div>
-			</div>
-		</section>
+ <section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/fullsize-1.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/fullsize-1.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Current Audio Project
+                                </div>
+                                <div class="project-name">
+                                    Codename: Thelonius
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/fullsize-2.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/fullsize-2.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Programming
+                                </div>
+                                <div class="project-name">
+                                    3d Records
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/grasscouch.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/grasscouch.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Gardening
+                                </div>
+                                <div class="project-name">
+                                    The Grass Couch
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/forest2.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/forest2.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Music
+                                </div>
+                                <div class="project-name">
+                                   EP Codename: Forest
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/singles.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/singles.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Vinyl
+                                </div>
+                                <div class="project-name">
+                                    Singles
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/fullsize/hats.jpg" class="portfolio-box">
+                        <img src="img/portfolio/thumbnails/hats.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    knitting
+                                </div>
+                                <div class="project-name">
+                                    Hats & Sweaters
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+</section>
