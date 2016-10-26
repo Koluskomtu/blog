@@ -1,7 +1,7 @@
 title: blog
 email: john.lafosse@gmail.com
 
-baseurl: "/blog/"
+baseurl: "blog/"
 url: "https://koluskomtu.github.io/"
 
 github_username:  Koluskomtu
