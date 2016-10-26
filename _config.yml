@@ -1,17 +1,7 @@
 title: blog
 email: john.lafosse@gmail.com
-<<<<<<< HEAD
-baseurl: "/blog"
-=======
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
-
 baseurl: ""
->>>>>>> 0e1efdbe73897805a4aebfcecb43d829419ad31d
-url: "http://koluskomtu.github.io"
+url: "https://koluskomtu.github.io"
 github_username:  Koluskomtu
 email: "john.lafosse@gmail.com"
 future: true
