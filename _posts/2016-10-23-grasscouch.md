@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title: Grass Couch
 ---
 <p style="text-align: left; padding: 5px;"> 
