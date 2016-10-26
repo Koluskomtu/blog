@@ -1,6 +1,3 @@
-
-
-
 title: blog
 
 email: john.lafosse@gmail.com
@@ -11,9 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: ""
 url: "koluskomtu.github.io"
-
 github_username:  Koluskomtu
-
 email: "john.lafosse@gmail.com"
 future: true
 gems:
