@@ -1,15 +1,11 @@
 title: blog
 email: john.lafosse@gmail.com
-baseurl: ""
-url: "https://koluskomtu.github.io"
+baseurl: "/blog/"
+url: "https://koluskomtu.github.io/"
 github_username:  Koluskomtu
 email: "john.lafosse@gmail.com"
 future: true
-gems:
-   - jekyll-mentions
-   - jemoji
-   - jekyll-sitemap
-   - jekyll-feed
+
 
 exclude: [ 'README.md' ]
 
