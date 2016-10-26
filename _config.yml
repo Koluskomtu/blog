@@ -1,7 +1,3 @@
-
-collections:
-portfolio:
-
 title: blog
 email: john.lafosse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
