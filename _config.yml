@@ -1,9 +1,5 @@
 title: blog
 email: john.lafosse@gmail.com
-
-baseurl: "/blog"
-url: "koluskomtu.github.io/"
-
 github_username:  Koluskomtu
 email: "john.lafosse@gmail.com"
 future: true
