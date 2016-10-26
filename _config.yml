@@ -1,7 +1,12 @@
 title: blog
 email: john.lafosse@gmail.com
+<<<<<<< HEAD
 baseurl: "/blog/"
 url: "https://koluskomtu.github.io/"
+=======
+baseurl: "/blog"
+url: "https://koluskomtu.github.io"
+>>>>>>> d2883034013fc0262b6ba00c46aa80a1e1193545
 github_username:  Koluskomtu
 email: "john.lafosse@gmail.com"
 future: true
