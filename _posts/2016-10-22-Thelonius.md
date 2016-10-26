@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thelonius
----default
+---
 
 
 | Current Audio Work in Progress                |
