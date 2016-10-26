@@ -8,10 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: ""
 url: "http://koluskomtu.github.io"
-
-baseurl: "/blog"
-url: "https://koluskomtu.github.io/"
->>>>>>> deb453ab1354efc8ac57fd33b283f1ae2fff85da
 github_username:  Koluskomtu
 email: "john.lafosse@gmail.com"
 future: true
