@@ -176,7 +176,7 @@ header {
     position: relative;
     width: 100%;
     min-height: auto;
-    text-align: center;
+    text-align: Left;
     color: #fff;
     background-image: url(https://koluskomtu.github.io/blog/img/header2.jpg);
     background-position: center;
